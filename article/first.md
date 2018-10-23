@@ -1,6 +1,5 @@
 ---
 title: "first page"
-layout: default
 date: 2018-10-23
 ---
 
