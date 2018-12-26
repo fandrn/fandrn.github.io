@@ -1,6 +1,5 @@
 ---
 title: "first game story"
-layout: default
 date: 2018-12-26
 ---
 
