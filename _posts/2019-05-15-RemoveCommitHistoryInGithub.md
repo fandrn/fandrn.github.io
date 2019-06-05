@@ -1,7 +1,8 @@
 ---
 title: "Remove commit history"
-layout: default
+layout: post
 date: 2019-05-14
+categories: git
 ---
 - [how-to-delete-all-commit-history-in-github](https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github) from stackoverflow
 
