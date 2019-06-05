@@ -3,3 +3,12 @@
 ---
 
 @import "minima";
+
+.megaphone {
+  width: 32px;
+  height: 24px;
+  display: inline-block;
+  fill: currentColor;
+  padding-right: 8px;
+  vertical-align: text-bottom;
+}
