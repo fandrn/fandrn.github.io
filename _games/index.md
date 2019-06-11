@@ -1,7 +1,7 @@
 ---
 title: "games"
 layout: post
-date: 2019-06-04
+date: 2019-06-11
 categories: game
 ---
 
