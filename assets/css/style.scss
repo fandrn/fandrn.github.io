@@ -16,11 +16,17 @@
 @media screen  and (max-width: 768px) {
   .user-profile-content {
     position: unset !important;
+    top: unset !important;
+    left: unset !important;
+    justify-content: center;
+    display: flex;
   }
 }
 
 .user-profile-content {
   position: absolute;
+  justify-content: center;
+  display: flex;
   top: 20%;
   left: 64px;
 }
