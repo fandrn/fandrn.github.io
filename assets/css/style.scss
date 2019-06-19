@@ -13,7 +13,14 @@
   vertical-align: text-bottom;
 }
 
+@media screen  and (max-width: 768px) {
+  .user-profile-content {
+    position: unset;
+  }
+}
+
 .user-profile-content {
+  position: absolute;
   top: 20%;
   left: 64px;
 }
